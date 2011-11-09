@@ -1,13 +1,13 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Tool similar to debootstrap for RPM based distributions
 Name:		rpmbootstrap
-Version:	0.9.10
+Version:	0.11.3
 Release:	1
 License:	GPL
 Group:		Applications/Archiving
 URL:		http://trac.project-builder.org/
 Source0:	ftp://ftp.project-builder.org/src/%{name}-%{version}.tar.gz
-# Source0-md5:	530c0af99b708c53a8abb38f11a74384
+# Source0-md5:	be748b98ae4004092f068b5da6a2daa4
 BuildRequires:	perl >= 5.8.4
 BuildRequires:	rpm-perlprov >= 4.1-13
 Requires:	perl-libwww
