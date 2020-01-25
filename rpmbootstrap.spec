@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	Tool similar to debootstrap for RPM based distributions
 Name:		rpmbootstrap
 Version:	0.12.1
